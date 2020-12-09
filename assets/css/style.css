@@ -1,0 +1,7 @@
+h1,p,footer{
+    text-align: center;
+}
+footer, .fixed-bottom{
+    background-color: rgb(45, 93, 184);
+    color: white;
+}
